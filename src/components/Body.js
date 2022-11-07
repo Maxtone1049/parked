@@ -22,7 +22,7 @@ function Body() {
         <a className='hint' href='https://books.zuri.team/python-for-beginners?ref_id=maxwell anthony' id='book_python'>Python Books</a>
         <a className='hint' href='https://background.zuri.team/' id='pitch'>Background Check for Coders</a>
         <a className='hint' href='https://books.zuri.team/design-rules' id='book_design'>Design Books</a>
- <Link to='/contact' className='hint'>Contact Me</Link>
+ <Link to='/contact' id="contact" className='hint'>Contact Me</Link>
       </div>
       <div className='inner'>
         <a href='https://slack.com'>
